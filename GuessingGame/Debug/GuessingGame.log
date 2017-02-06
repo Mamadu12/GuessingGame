@@ -1,0 +1,4 @@
+﻿  Guess.cpp
+e:\c++\guessinggame\guessinggame\guess.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessingGame.vcxproj -> E:\C++\GuessingGame\Debug\GuessingGame.exe
+  GuessingGame.vcxproj -> E:\C++\GuessingGame\Debug\GuessingGame.pdb (Full PDB)
